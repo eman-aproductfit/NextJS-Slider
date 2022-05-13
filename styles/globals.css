@@ -24,3 +24,23 @@ a {
   border: 0;
   border-radius: 5px;
 }
+.weathercondition{
+
+}
+.icon{
+  
+}
+.center{
+  margin: 0 auto;
+  max-width: 600px;
+}
+.float-right{
+float: right;
+}
+.float-left{
+  float: left;
+}
+.reset{
+  margin-bottom: 30px;
+  clear: both;
+}
